@@ -61,5 +61,14 @@ Place the `usercore` folder in your server's root directory (e.g., `C:/xampp/htd
 * **PDO Prepared Statements**: Secure database interactions to prevent SQL injection.
 * **Real-time Alerts**: Success and error messages when adding users.
 
+OUTPUT:
+<img width="1365" height="709" alt="image" src="https://github.com/user-attachments/assets/4f226945-e4a0-498f-ab97-479ad174da27" />
+<img width="1365" height="709" alt="image" src="https://github.com/user-attachments/assets/32f2861d-704d-4403-a4cb-90ccefe55fad" />
+<img width="1365" height="576" alt="image" src="https://github.com/user-attachments/assets/b7249a80-5fb0-4454-aaf4-b305eb968cd7" />
+<img width="1365" height="517" alt="image" src="https://github.com/user-attachments/assets/489853be-21f6-4a59-99c0-0da319106372" />
+
+
+
+
 ---
 Author: JANNELLE DINGAL
